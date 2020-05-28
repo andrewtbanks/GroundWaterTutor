@@ -1,4 +1,4 @@
-Download directory as a .zip file. Extract the contents of the file anywhere and run GroundWaterTutor_setup.exe to install GroundWaterTutor and the Matlab RUNTIME (9.3) support libraries. Read the installation instructions carefully. 
+Download directory as a .zip file. Extract the contents of the file anywhere and run GroundWaterTutor_setup.exe to install GroundWaterTutor and the Matlab RUNTIME (9.3) support libraries. During installation, you will be presented with some basic instructions. Follow these instructions carefully .
 
 # GroundWaterTutor - An Interactive Computer Module for Groundwater Education
 ## Developed by Andy T. Banks and Mary C. Hill
