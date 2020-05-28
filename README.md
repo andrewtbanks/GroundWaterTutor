@@ -1,5 +1,5 @@
 ### Installation
-Download directory as a .zip file. Extract the contents of the file anywhere and run GroundWaterTutor_setup.exe to install GroundWaterTutor and the Matlab RUNTIME (9.3) support libraries. At the last step of the installation, you will be presented with some basic instructions. Follow these instructions carefully.
+Download directory as a .zip file. Extract the contents of the file anywhere and run GroundWaterTutor_setup.exe to install GroundWaterTutor and the Matlab RUNTIME (9.3) support libraries. In total this will take approximately 1 GB of space on your computer. After installation, place the executables for MODFLOW (mf2005.exe) and MODPATH (MPath7.exe) into a folder anywhere on your computer. Anytime you startup GroundWaterTutor, you will need to identify this directory. All model files for MODFLOW and MODPATH created by GroundWaterTutor are stored in this directory.  
 
 # GroundWaterTutor - An Interactive Computer Module for Groundwater Education
 ## Developed by Andrew T. Banks and Mary C. Hill
