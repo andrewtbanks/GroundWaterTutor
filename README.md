@@ -4,6 +4,7 @@ Download directory as a .zip file. Extract the contents of the file anywhere and
 A tutorial on how to use the software is provided in the first section of the sample exercise document: GroundWaterTutor_StudentExampleExercises.docx
 
 The answer key that accompanies the example exercise is provided as well: GroundWaterTutor_StudentExampleExercises_AnswerKey.docx
+
 # GroundWaterTutor - An Interactive Computer Module for Groundwater Education
 ## Developed by Andrew T. Banks and Mary C. Hill
 ## University of Kansas - Department of Geology
